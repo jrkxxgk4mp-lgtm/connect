@@ -21,3 +21,274 @@
     }
   }
 }
+{
+  "2026-05-04": {
+    "title": "Puzzle",
+    "groups": {
+      "Snooker Scoring Terms": ["Century", "Maximum", "Clearance", "Break"],
+      "Snooker Equipment": ["Cue", "Chalk", "Table", "Baize"],
+      "Famous Players": ["O'Sullivan", "Hendry", "Davis", "Higgins"],
+      "Match Terms": ["Frame", "Break-off", "Safety", "Re-rack"]
+    }
+  },
+
+  "2026-05-05": {
+    "title": "Puzzle",
+    "groups": {
+      "Fruits": ["Apple", "Banana", "Pear", "Orange"],
+      "Colours": ["Red", "Blue", "Green", "Yellow"],
+      "Verbs": ["Run", "Jump", "Swim", "Walk"],
+      "Tech Devices": ["Laptop", "Phone", "Tablet", "Watch"]
+    }
+  },
+
+  "2026-05-06": {
+    "title": "Puzzle",
+    "groups": {
+      "Animals": ["Lion", "Tiger", "Bear", "Wolf"],
+      "Countries": ["France", "Spain", "Italy", "Germany"],
+      "Sports": ["Football", "Tennis", "Golf", "Rugby"],
+      "Kitchen Items": ["Fork", "Knife", "Spoon", "Plate"]
+    }
+  },
+
+  "2026-05-07": {
+    "title": "Puzzle",
+    "groups": {
+      "Weather": ["Rain", "Snow", "Wind", "Fog"],
+      "School Subjects": ["Math", "Science", "History", "English"],
+      "Vehicles": ["Car", "Bus", "Train", "Bike"],
+      "Clothing": ["Shirt", "Pants", "Coat", "Hat"]
+    }
+  },
+
+  "2026-05-08": {
+    "title": "Puzzle",
+    "groups": {
+      "Musical Instruments": ["Piano", "Guitar", "Drum", "Violin"],
+      "Ocean Things": ["Wave", "Fish", "Coral", "Shark"],
+      "Office Items": ["Pen", "Paper", "Stapler", "Folder"],
+      "Emotions": ["Happy", "Sad", "Angry", "Calm"]
+    }
+  },
+
+  "2026-05-09": {
+    "title": "Puzzle",
+    "groups": {
+      "Planets": ["Mars", "Venus", "Earth", "Jupiter"],
+      "Shapes": ["Circle", "Square", "Triangle", "Rectangle"],
+      "Fast Foods": ["Burger", "Pizza", "Fries", "Hotdog"],
+      "Tools": ["Hammer", "Saw", "Wrench", "Drill"]
+    }
+  },
+
+  "2026-05-10": {
+    "title": "Puzzle",
+    "groups": {
+      "Body Parts": ["Head", "Arm", "Leg", "Hand"],
+      "Internet Terms": ["Link", "Page", "Site", "Post"],
+      "Flowers": ["Rose", "Tulip", "Lily", "Daisy"],
+      "Jobs": ["Doctor", "Teacher", "Builder", "Chef"]
+    }
+  },
+
+  "2026-05-11": {
+    "title": "Puzzle",
+    "groups": {
+      "Desserts": ["Cake", "Icecream", "Pie", "Donut"],
+      "Transportation": ["Plane", "Boat", "Car", "Train"],
+      "Reptiles": ["Snake", "Lizard", "Crocodile", "Turtle"],
+      "Feelings": ["Joy", "Fear", "Love", "Anger"]
+    }
+  },
+
+  "2026-05-12": {
+    "title": "Puzzle",
+    "groups": {
+      "Weather Types": ["Storm", "Heatwave", "Blizzard", "Drought"],
+      "Currencies": ["Dollar", "Euro", "Pound", "Yen"],
+      "Sports Equipment": ["Bat", "Ball", "Net", "Racket"],
+      "Music Genres": ["Rock", "Pop", "Jazz", "Rap"]
+    }
+  },
+
+  "2026-05-13": {
+    "title": "Puzzle",
+    "groups": {
+      "Sea Creatures": ["Whale", "Dolphin", "Crab", "Octopus"],
+      "Languages": ["English", "Spanish", "French", "German"],
+      "School Rooms": ["Classroom", "Lab", "Hall", "Library"],
+      "Kitchen Appliances": ["Oven", "Fridge", "Microwave", "Toaster"]
+    }
+  },
+
+  "2026-05-14": {
+    "title": "Puzzle",
+    "groups": {
+      "Jedi Masters": ["Yoda", "Obi-Wan", "Qui-Gon", "Luke"],
+      "Sith Lords": ["Vader", "Sidious", "Maul", "Dooku"],
+      "Starships": ["Falcon", "X-Wing", "TIE Fighter", "Star Destroyer"],
+      "Planets": ["Tatooine", "Hoth", "Endor", "Naboo"]
+    }
+  },
+
+  "2026-05-15": {
+    "title": "Puzzle",
+    "groups": {
+      "Birds": ["Eagle", "Sparrow", "Crow", "Parrot"],
+      "Computers": ["CPU", "GPU", "RAM", "SSD"],
+      "Climates": ["Tropical", "Arctic", "Desert", "Temperate"],
+      "Sports Actions": ["Kick", "Throw", "Catch", "Hit"]
+    }
+  },
+
+  "2026-05-16": {
+    "title": "Puzzle",
+    "groups": {
+      "Books Genres": ["Horror", "Fantasy", "SciFi", "Romance"],
+      "Furniture": ["Chair", "Table", "Sofa", "Bed"],
+      "School Grades": ["A", "B", "C", "D"],
+      "Directions": ["North", "South", "East", "West"]
+    }
+  },
+
+  "2026-05-17": {
+    "title": "Puzzle",
+    "groups": {
+      "Famous Cities": ["London", "Paris", "Tokyo", "New York"],
+      "Drinks": ["Tea", "Coffee", "Juice", "Water"],
+      "Weather Effects": ["Rainbow", "Thunder", "Lightning", "Snowfall"],
+      "Verbs": ["Speak", "Write", "Read", "Listen"]
+    }
+  },
+
+  "2026-05-18": {
+    "title": "Puzzle",
+    "groups": {
+      "Games": ["Chess", "Poker", "Monopoly", "Scrabble"],
+      "Sports Leagues": ["NBA", "NFL", "UCL", "MLB"],
+      "Body Organs": ["Heart", "Lung", "Brain", "Liver"],
+      "Materials": ["Wood", "Metal", "Plastic", "Glass"]
+    }
+  },
+
+  "2026-05-19": {
+    "title": "Puzzle",
+    "groups": {
+      "School Supplies": ["Notebook", "Eraser", "Ruler", "Pen"],
+      "Internet Apps": ["YouTube", "TikTok", "Instagram", "X"],
+      "Fruit Types": ["Apple", "Pear", "Banana", "Grape"],
+      "Emotions": ["Happy", "Sad", "Angry", "Excited"]
+    }
+  },
+
+  "2026-05-20": {
+    "title": "Puzzle",
+    "groups": {
+      "Europa League Winners": ["Sevilla", "Parma", "Leverkusen", "Atalanta"],
+      "Conference League Finalists": ["West Ham", "Fiorentina", "Real Betis", "Roma"],
+      "European Leagues": ["Serie A", "La Liga", "Bundesliga", "Ligue 1"],
+      "Stadiums": ["San Siro", "Olympiastadion", "Emirates", "Wembley"]
+    }
+  },
+
+  "2026-05-21": {
+    "title": "Puzzle",
+    "groups": {
+      "Planets": ["Mercury", "Venus", "Earth", "Mars"],
+      "Weather": ["Rain", "Fog", "Snow", "Wind"],
+      "Musical Notes": ["Do", "Re", "Mi", "Fa"],
+      "Animals": ["Dog", "Cat", "Horse", "Cow"]
+    }
+  },
+
+  "2026-05-22": {
+    "title": "Puzzle",
+    "groups": {
+      "Vehicles": ["Car", "Plane", "Boat", "Bike"],
+      "Shapes": ["Circle", "Square", "Triangle", "Oval"],
+      "Foods": ["Bread", "Rice", "Pasta", "Soup"],
+      "Jobs": ["Doctor", "Pilot", "Chef", "Farmer"]
+    }
+  },
+
+  "2026-05-23": {
+    "title": "Puzzle",
+    "groups": {
+      "Countries": ["Japan", "USA", "Brazil", "India"],
+      "Instruments": ["Piano", "Flute", "Drum", "Guitar"],
+      "Sports": ["Tennis", "Golf", "Rugby", "Cricket"],
+      "Clothing": ["Shoes", "Hat", "Jacket", "Shirt"]
+    }
+  },
+
+  "2026-05-24": {
+    "title": "Puzzle",
+    "groups": {
+      "Premier League Winning Clubs": ["Arsenal", "Chelsea", "Manchester City", "Manchester United"],
+      "Non Premier League Winning Clubs": ["Leeds United", "Spurs", "Everton", "West Ham United"],
+      "Managers": ["Guardiola", "Slot", "Emery", "Arteta"],
+      "Positions": ["Striker", "Defender", "Midfielder", "Goalkeeper"]
+    }
+  },
+
+  "2026-05-25": {
+    "title": "Puzzle",
+    "groups": {
+      "Tools": ["Hammer", "Saw", "Drill", "Wrench"],
+      "Colours": ["Red", "Blue", "Green", "Yellow"],
+      "Fruits": ["Apple", "Banana", "Pear", "Orange"],
+      "Animals": ["Lion", "Tiger", "Bear", "Wolf"]
+    }
+  },
+
+  "2026-05-26": {
+    "title": "Puzzle",
+    "groups": {
+      "Seasons": ["Spring", "Summer", "Autumn", "Winter"],
+      "Languages": ["English", "French", "Spanish", "German"],
+      "Sports": ["Football", "Tennis", "Golf", "Rugby"],
+      "Tech": ["Phone", "Laptop", "Tablet", "Watch"]
+    }
+  },
+
+  "2026-05-27": {
+    "title": "Puzzle",
+    "groups": {
+      "Body Parts": ["Head", "Arm", "Leg", "Foot"],
+      "Kitchen Items": ["Plate", "Fork", "Knife", "Spoon"],
+      "Weather": ["Rain", "Snow", "Fog", "Wind"],
+      "Jobs": ["Teacher", "Doctor", "Chef", "Builder"]
+    }
+  },
+
+  "2026-05-28": {
+    "title": "Puzzle",
+    "groups": {
+      "Books": ["Novel", "Comic", "Diary", "Magazine"],
+      "Music": ["Rock", "Pop", "Jazz", "Rap"],
+      "Transport": ["Car", "Train", "Plane", "Boat"],
+      "Animals": ["Cat", "Dog", "Fish", "Bird"]
+    }
+  },
+
+  "2026-05-29": {
+    "title": "Puzzle",
+    "groups": {
+      "School Subjects": ["Math", "Science", "History", "English"],
+      "Internet": ["Link", "Site", "Post", "Page"],
+      "Weather": ["Storm", "Rain", "Snow", "Sun"],
+      "Sports": ["Football", "Cricket", "Tennis", "Golf"]
+    }
+  },
+
+  "2026-05-30": {
+    "title": "Puzzle",
+    "groups": {
+      "6x+ UCL Winners": ["Real Madrid", "AC Milan", "Liverpool", "Bayern"],
+      "Final Venues Host Cities": ["London", "Paris", "Istanbul", "Milan"],
+      "UCL Terms": ["League Phase", "Knockout", "Extra Time", "Penalty"],
+      "One Time UCL Winners": ["Celtic", "Manchester City", "Steaua București", "PSG"]
+    }
+  }
+}
