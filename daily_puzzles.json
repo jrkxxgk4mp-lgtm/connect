@@ -1,0 +1,23 @@
+{
+  "2026-05-02": {
+    "title":"Saturday Puzzle",
+    "groups":{
+      "Fruit":["Apple","Pear","Banana","Orange"],
+      "Colours":["Red","Blue","Green","Yellow"],
+      "Sports":["Golf","Rugby","Tennis","Cricket"],
+      "Furniture":["Desk","Chair","Lamp","Table"]
+    }
+  }
+}
+
+{
+  "2026-05-03": {
+    "title": "Sunday Puzzle",
+    "groups": {
+      "Drive on left": ["UK","India","Japan","Australia"],
+      "Drive on right": ["USA","France","Spain","Italy"],
+      "Island nations": ["Cyprus","Cuba","Iceland","Madagascar"],
+      "Begin with P": ["Pakistan","Portugal","Peru","Poland"]
+    }
+  }
+}
